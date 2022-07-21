@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/YousefAldabbas/fylo-dark-theme-landing-page-master)
-- challenge URL: [](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
+- Solution URL: [click here](https://github.com/YousefAldabbas/fylo-dark-theme-landing-page-master)
+- challenge URL: [click here](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
 
 ## My process
 
